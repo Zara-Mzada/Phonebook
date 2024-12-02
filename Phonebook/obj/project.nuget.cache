@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "cHCmHvzwBGmBdqK5fP8tPrKja6hPXgKiUbS/JguJThtB+Yu+9XnkZwr/ZQilK05aDQUOgzQMAbb3V8OOKTmTxg==",
+  "success": true,
+  "projectFilePath": "/Users/zara/RiderProjects/Phonebook/Phonebook/Phonebook.csproj",
+  "expectedPackageFiles": [
+    "/Users/zara/.nuget/packages/runtime.native.system.data.sqlclient.sni/4.4.0/runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "/Users/zara/.nuget/packages/runtime.win-arm64.runtime.native.system.data.sqlclient.sni/4.4.0/runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "/Users/zara/.nuget/packages/runtime.win-x64.runtime.native.system.data.sqlclient.sni/4.4.0/runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "/Users/zara/.nuget/packages/runtime.win-x86.runtime.native.system.data.sqlclient.sni/4.4.0/runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "/Users/zara/.nuget/packages/system.data.sqlclient/4.9.0/system.data.sqlclient.4.9.0.nupkg.sha512"
+  ],
+  "logs": []
+}
